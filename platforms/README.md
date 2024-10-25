@@ -1,6 +1,6 @@
 # How to get the data needed for these analyses
 
-## Link to existing dataset (local implementation)
+## Link to existing datasets (local implementation)
 Remember to start out in the root of this repo so relative paths work.
 
 ```bash
